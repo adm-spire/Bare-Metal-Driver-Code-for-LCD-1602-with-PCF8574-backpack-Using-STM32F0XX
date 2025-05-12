@@ -1,1 +1,2 @@
 # Bare-Metal-Driver-Code-for-LCD-1602-with-PCF8574-backpack-Using-STM32F0XX
+This project uses I2C communication protocol for using popular LCD 1602 with STM32F0 , just copy paste the code and run it . This is the bare metal implementation so there is no external library in use here . 
